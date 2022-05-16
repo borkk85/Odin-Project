@@ -1,2 +1,2 @@
 # Odin-Project
-Landing Page
+Landing Page - Work in progress
